@@ -11,10 +11,6 @@ You give Cr3dOv3r an email then it does two simple useful jobs with it:
 - Check if the target credentials you found is reused on other websites/services.
 - Checking if the old password you got from the target/leaks is still used in any website.
 
-# Screenshots
-![screenshot](https://github.com/D4Vinci/Cr3dOv3r/blob/master/Data/Email1.png)
-![screenshot](https://github.com/D4Vinci/Cr3dOv3r/blob/master/Data/Email2.png)
-![screenshot](https://github.com/D4Vinci/Cr3dOv3r/blob/master/Data/Email3.png)
 
 # Usage
 ```
